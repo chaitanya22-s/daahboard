@@ -1,0 +1,6 @@
+{
+  "name": "Cyber Operations Center - Threat Dashboard",
+  "description": "Real-time Security Operations Center (SOC) threat dashboard featuring global telemetry, geographic attack map, SIEM streaming logs, incident analytics, and defense node health.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
